@@ -2,7 +2,7 @@
 const csvtojson = require('csvtojson')
 const fs = require('fs')
 
-const csvfilepath = "./CadopReport.csv"
+const csvfilepath = "./Relatorio_cadop.csv"
 
 csvtojson()
 .fromFile(csvfilepath)
