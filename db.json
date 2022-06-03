@@ -25299,6 +25299,28 @@
       "Representante": "ANAMELIA MONTEIRO GUERRA ROCCHI",
       "Cargo Representante": "SÓCIO ADMINISTRADOR",
       "Data Registro ANS": "12/07/2021"
+    },
+    {
+      "Registro ANS": "324324",
+      "CNPJ": "343432",
+      "Razão Social": "BRYAN",
+      "Nome Fantasia": "BRYAN",
+      "Modalidade": "DEV",
+      "Logradouro": "AV PAULISTA",
+      "Número": "30",
+      "Complemento": "4324",
+      "Bairro": "SP",
+      "Cidade": "SAO PAULO",
+      "UF": "SP",
+      "CEP": "1111111111",
+      "DDD": "11",
+      "Telefone": "9435413",
+      "Fax": "PA",
+      "Endereço eletrônico": "bryan@teste.com",
+      "Representante": "BRYAN",
+      "Cargo Representante": "CEO",
+      "Data Registro ANS": "01/06/2022",
+      "id": "hEfZXsd"
     }
   ]
 }
